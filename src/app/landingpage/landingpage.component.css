@@ -367,6 +367,23 @@ h2 {
   line-height: 32pt;
   color: #303030;
 }
+.contact-section2 h1 {
+    font-size: 32pt;
+    font-family: Arial;
+    margin: 2%;
+    padding: 0;
+    line-height: 32pt;
+    color: #303030;
+}
+
+.contact-section2{
+  display: block;
+  align-items: center;
+  text-align: center;
+  height: 400px;
+  padding: 50px;
+
+}
 
 .contact-section p {
   margin: 20px;
